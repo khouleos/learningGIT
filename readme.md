@@ -1,2 +1,2 @@
-#readme file
-learn git tuto
+# readme file
+learn git tuto read
